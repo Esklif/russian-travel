@@ -5,6 +5,10 @@
   color: white;
 }
 
+.footer__link:hover {
+  opacity: 0.8;
+}
+
 .footer__link:last-child {
   padding-right: 0;
 }
@@ -31,7 +35,6 @@
   .footer__link {
     margin: 0;
     padding-right: 0;
-    padding-bottom: 32px;
     text-decoration: none;
     color: white;
   }

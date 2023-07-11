@@ -14,10 +14,9 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .lead__title {
     max-width: 93.75%;
-    line-height: 0.96;
   }
 }
 
